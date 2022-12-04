@@ -1,0 +1,83 @@
+
+    .type {
+    display:inline-block;
+    float:right;
+    font-size:20px;
+}
+body {
+        background-repeat: no-repeat;
+        background-size:100%;
+        background:url(img/horse.jpg) 
+        }
+.show {
+        padding-left:25%;
+        padding-right:50%;
+        color:white;
+        font-size:100px;
+    }
+body {
+        color: aqua;
+}
+.container{
+    padding-right:90%;
+  display: inline-block;
+}
+.typed-out{
+  overflow: hidden;
+  border-right.15em solid orange: ;
+  white-space: nowrap;
+  animation: 
+    typing 5s backwards;
+  font-size: 4.6rem;
+  width: 0;
+}
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+@media only screen and (max-width:1000px) and (min-width:500px) {
+  body{
+  font-family: 'Trebuchet MS', sans-serif; 
+        color: aqua;
+}
+.container{
+  display: inline-block;
+}
+.typed-out{
+  overflow: hidden;
+  border-right.15em solid orange: ;
+  white-space: nowrap;
+  animation: 
+    typing 5s backwards;
+  font-size: 2rem;
+  width: 0;
+}
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+    }
+}
+@media only screen and (max-width:1000px) and (min-width:500px) {
+body {
+     background-size:50%;
+        background-repeat: no-repeat;
+        background:url(img/horse.jpg)
+    }
+}
+@media only screen and (max-width:1000px) and (min-width:500px) {
+    a {
+        color: red;
+    }
+}
+main ul{
+    float:right;
+    margin-right:20px;
+}
+main ul li{
+    padding: 20px;
+    padding-top:0px;
+    display:inline-block;
+    line-height: 80px;margin:; 0 5px;
+}
+
+  

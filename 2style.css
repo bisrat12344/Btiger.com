@@ -1,0 +1,15 @@
+ .type {
+    font-size: 20px;
+    float: right;
+    color: whitesmoke;
+  }
+    .search {
+        padding:10px;
+        border-radius: 40px;
+}
+.comment {
+    background-color: antiquewhite;
+}
+.send {
+    background-color:aqua;
+}
